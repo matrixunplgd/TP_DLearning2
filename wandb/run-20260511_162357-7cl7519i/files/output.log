@@ -1,0 +1,12 @@
+Début de l'entraînement...
+100%|████████████████████████████████████████████| 50/50 [00:01<00:00, 25.75it/s]
+Epoch 10: Train Loss=0.5365, Train Acc=0.9507 | Val Loss=0.3486, Val Acc=0.9722
+Epoch 20: Train Loss=0.1033, Train Acc=1.0000 | Val Loss=0.0472, Val Acc=1.0000
+Epoch 30: Train Loss=0.0345, Train Acc=1.0000 | Val Loss=0.0188, Val Acc=1.0000
+Epoch 40: Train Loss=0.0169, Train Acc=1.0000 | Val Loss=0.0107, Val Acc=1.0000
+Epoch 50: Train Loss=0.0100, Train Acc=1.0000 | Val Loss=0.0087, Val Acc=1.0000
+
+✅ Terminé! Meilleure accuracy validation: 1.0000
+✅ Modèle sauvegardé dans 'model.pth'
+✅ Courbes sauvegardées dans 'training_curves.png'
+✅ Résultats visibles sur wandb: https://wandb.ai/
